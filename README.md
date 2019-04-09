@@ -35,12 +35,12 @@ Once successfully finish the compilation, you should be able to find JAR file op
 
 Add build/bin/opencv-<VERSION>.jar to the PROMAR\_JAVA main module dependencies as JAR.
 
-![](import_1.png)
+<img src="https://github.com/PROMAR2019/PROMAR_JAVA/blob/master/import_1.png" width="370" height="640">
 
 Add dynamically linked library build/lib/libopencv\_java<VERSION>.dylib to opencv-<VERSION>.jar.
 
-![](import_2.png)
-![](import_3.png)
+<img src="https://github.com/PROMAR2019/PROMAR_JAVA/blob/master/import_2.png" width="370" height="640">
+<img src="https://github.com/PROMAR2019/PROMAR_JAVA/blob/master/import_3.png" width="370" height="640">
 
 Congratulations! You have finished OpenCV configuration.
 
